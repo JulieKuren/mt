@@ -28,3 +28,5 @@ stanford-corenlp-full-2018-10-05/
 statements/
 tmp
 tmp.txt
+w2v_models/
+project/statements_3/

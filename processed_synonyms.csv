@@ -1,0 +1,627 @@
+word,synonyms,is_original
+able,capable,True
+absent,away,False
+accept,"score, fetch, secure, find, obtain, bag, earn, rep, up, gain, acquire, pick, by, get, catch, win, come, net, collect",False
+accident,crash,False
+account,"for, clarify, interpret, story, record, explain",False
+accurate,"right, proper, exact, valid, genuine, real, actual, steady, loyal",True
+achieve,"carry, effect, keep, set, build, place, put, attach, establish, do, save, finish, out",False
+acknowledge,"answer, respond, reply",False
+acquire,"effect, find, create, own, have, believe, develop, buy, perform, contain, make, get, net, enjoy, hold, score, manufacture, rep, steal, build, pick, choose, construct, select, bear, come, collect, remove, fetch, rob, form, lift, invent, gain, purchase, win, bag, secure, obtain, take, earn, occupy, fill, up, accept, prefer, do, produce, catch, design, by",False
+act,behave,False
+actual,"proper, exact, steady, right, valid, accurate, loyal, genuine, real",False
+additional,extra,False
+admire,"fancy, care, for, love, like",False
+advance,"approach, near, arrive, come, reach",False
+advise,"deliver, sing, inform, thunder, declare, command, tell, suppose, train, content, announce, show, issue, scream, pronounce, state, direct, order, voice, deny, explain, repeat, reveal, express, assure, speak, insist, teach",False
+afraid,"worried, terrified, shy, frightened, scared, shocked",False
+aged,"old, ancient, traditional, mature, former, old-fashioned, weak",False
+aim,purpose,True
+alarm,fear,False
+alike,same,True
+alive,"eager, enthusiastic, keen, to, interested",False
+all,every,True
+allow,permit,True
+almost,nearly,False
+amazing,"incredible, unbelievable, wonderful, fantastic, extraordinary",True
+amount,quantity,True
+amusing,"funny, comic, silly",False
+ancient,"old, aged, traditional, mature, former, old-fashioned, weak",False
+angry,"mad, furious, excited",True
+animated,"attractive, lively, curious, bright, keen, spicy, exciting, fascinating, sharp, intelligent, challenging, interesting",False
+announce,"deliver, sing, inform, thunder, declare, command, suppose, train, content, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, reveal, express, assure, speak, insist, teach",False
+annoy,bother,False
+answer,"reply, respond, acknowledge",True
+approach,"near, advance, arrive, come, reach",False
+area,"site, state, spot, set, station, region, location, position, situation, place, space",False
+arrangement,"method, plan, map, procedure, diagram, scheme, draw, design, way",False
+arrive,reach,True
+ask,"question, inquire, of, information, from, put, question, to, demand, request, expect, inquire, query, examine, quiz",True
+assure,guarantee,True
+attach,"effect, keep, set, achieve, build, put, establish, do, save, place",False
+attempt,try,False
+attend,"help, on, wait, encourage, benefit, back, support, serve",False
+attractive,"beautiful, lively, handsome, intelligent, fair, animated, curious, bright, keen, spicy, gorgeous, exciting, magnificent, lovely, pretty, fascinating, sharp, fine, challenging, interesting",False
+author,writer,False
+away,absent,True
+awful,"terrible, bad, poor, unpleasant",True
+back,"help, attend, on, wait, encourage, benefit, support, serve",False
+bad,"defective, unpleasant, cross, nasty, unfriendly, horrible, wrong, gross, rank",True
+bag,"score, fetch, secure, find, obtain, earn, rep, up, gain, acquire, pick, accept, by, get, catch, win, come, net, collect",False
+be,"in, enjoy, pleased, like",False
+bear,"occupy, own, fill, have, believe, acquire, gain, contain, enjoy, hold",False
+beautiful,"pretty, lovely, handsome, attractive, gorgeous, magnificent, fair, fine",True
+begin,"start, open, launch, initiate, commence",True
+behave,act,True
+behind,"late, gradual, slow",False
+believe,"consider, trust, occupy, own, fill, have, think, acquire, gain, contain, judge, bear, enjoy, hold",False
+below,under,True
+benefit,"help, attend, on, wait, encourage, back, support, serve",False
+big,"enormous, huge, large, great, tall, substantial, broad",True
+black,"sad, dark",False
+blank,empty,True
+bold,brave,False
+boring,"uninteresting, plain, stupid, dead, dull, slow",False
+bother,annoy,True
+brand,"price, effect, note, sign, ticket, notice, impress, stamp, mark, label",False
+brave,bold,True
+break,crash,True
+breeze,"walk, jog, coast, stir, slide, inch, race, journey, plug, trip, slip, go, run, move, sail, tear, ride, drag, hurry, travel, flow",False
+bright,"shiny, brilliant, intelligent, smart",True
+brilliant,"intelligent, smart, bright, shiny",False
+broad,wide,True
+build,"effect, create, develop, keep, acquire, perform, attach, make, get, place, manufacture, achieve, construct, form, invent, gain, put, obtain, earn, set, establish, do, save, produce, design",False
+business,trade,True
+buy,purchase,True
+by,"score, fetch, secure, find, obtain, bag, earn, rep, up, gain, acquire, pick, accept, get, catch, win, come, net, collect",False
+cab,taxi,False
+calm,"quiet, peaceful, still, mild, smooth",True
+cancel,"destroy, murder, kill",False
+cap,hat,False
+capable,"proper, pleasant, superior, qualified, safe, great, valid, reliable, fine, satisfactory, suitable, friendly, profitable, helpful, good, competent, generous, genuine, able, excellent, wonderful, kindly",False
+care,"fancy, for, admire, love, like",False
+career,job,False
+carpet,rug,False
+carry,"effect, achieve, perform, do, finish, out",False
+catch,"find, buy, acquire, get, net, hold, score, rep, steal, pick, choose, select, come, collect, remove, fetch, rob, lift, gain, purchase, win, bag, secure, obtain, take, earn, occupy, up, accept, prefer, by",False
+center,middle,True
+certain,"definite, determined, sure, clear, positive, obvious",False
+challenging,"attractive, lively, animated, curious, bright, keen, spicy, exciting, fascinating, sharp, intelligent, interesting",False
+chance,opportunity,False
+cheerful,"happy, satisfied, pleased, glad, delighted, gay",False
+child,kid,True
+chilly,"cool, cold, icy",False
+choose,pick,True
+circular,round,False
+clarify,"explain, for, interpret, account",False
+clean,"tidy, smart, neat",False
+clear,"definite, determined, certain, sure, positive, obvious",False
+close,shut,True
+coast,"walk, jog, stir, slide, inch, race, journey, plug, trip, slip, go, run, breeze, move, sail, tear, ride, fly, drag, hurry, travel, wing, cruise, flow",False
+coat,jacket,True
+cold,freezing,True
+collect,"score, fetch, secure, find, obtain, bag, earn, rep, up, gain, acquire, pick, accept, get, catch, win, come, net, by",False
+come,"approach, advance, near, arrive, reach",True
+comic,"funny, amusing, silly",False
+command,"deliver, sing, inform, thunder, declare, tell, suppose, train, content, announce, show, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, repeat, reveal, express, assure, speak, insist, teach",False
+commence,"open, initiate, launch, start, begin",False
+common,"favorite, current, popular",False
+competent,capable,True
+complete,finish,True
+concern,"worry, trouble, effort, pain, difficulty, danger",False
+connect,join,True
+consider,"think, believe, judge",False
+considerable,"great, important, much, principal, powerful, essential, necessary, valuable, well-known, primary, significant, famous",False
+construct,"effect, form, create, manufacture, earn, obtain, invent, develop, build, gain, acquire, perform, make, do, produce, get, design",False
+contain,"occupy, own, fill, have, believe, gain, acquire, bear, enjoy, hold",False
+content,"deliver, sing, inform, thunder, declare, command, suppose, train, announce, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, reveal, express, assure, speak, insist, teach",False
+cool,"chilly, cold, icy",True
+cope,manage,True
+correct,"good, proper, right, suitable, just, fair, legal, accurate, honest",False
+cover,"screen, hide",False
+crash,accident,True
+create,"effect, form, obtain, manufacture, earn, invent, develop, build, gain, acquire, perform, construct, make, do, produce, get, design",False
+crop,"reduce, cut, slice",False
+cross,"unfriendly, unpleasant, wrong, defective, horrible, nasty, rank, gross, bad",False
+cruise,"fly, wing, sail, coast",False
+cry,"shout, scream",True
+curious,"attractive, lively, strange, unusual, animated, bright, keen, spicy, exciting, irregular, fascinating, sharp, intelligent, challenging, interesting",False
+current,"favorite, unusual, popular, original, new, common, recent, modern, novel, fresh",False
+cut,"slice, crop, reduce",True
+dad,father,False
+damage,"hurt, injure, pain",False
+danger,"worry, trouble, effort, pain, difficulty, concern",False
+dark,"black, sad",True
+dead,"uninteresting, plain, stupid, boring, dull, slow",False
+dear,expensive,True
+decide,"settle, choose, resolve",True
+declare,"deliver, sing, inform, thunder, tell, command, suppose, train, content, announce, show, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, repeat, reveal, express, assure, speak, insist, teach",False
+defective,"unfriendly, unpleasant, wrong, cross, horrible, nasty, rank, gross, bad",False
+definite,"certain, sure, positive, determined, clear, obvious",True
+delicious,enjoyable,True
+delighted,"cheerful, happy, satisfied, pleased, glad, gay",False
+deliver,"sing, inform, thunder, declare, command, suppose, train, content, announce, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, reveal, express, assure, speak, insist, teach",False
+demand,"inquire, ask, expect, of, request, put, to, examine, from, query, quiz, information, question",False
+demonstrate,"display, prove, note, exhibit, point, reveal, show, indicate, to, present, explain",False
+deny,"deliver, sing, inform, thunder, declare, command, suppose, train, content, announce, issue, scream, pronounce, state, direct, order, voice, explain, advise, reveal, express, assure, speak, insist, teach",False
+depart,leave,True
+depressed,"unhappy, poor, sad, miserable, uncomfortable",False
+describe,"picture, represent, report, record",True
+design,"effect, create, map, develop, acquire, perform, arrangement, make, get, draw, method, manufacture, build, construct, diagram, way, form, plan, invent, gain, procedure, obtain, earn, do, produce, scheme",False
+destroy,"ruin, waste, kill, end",True
+determined,"definite, certain, sure, clear, positive, obvious",False
+develop,"effect, form, create, manufacture, earn, obtain, invent, build, gain, acquire, perform, construct, make, do, produce, get, design",False
+diagram,"method, plan, map, arrangement, procedure, scheme, draw, design, way",False
+difficult,hard,True
+difficulty,"worry, trouble, effort, pain, concern, danger",False
+direct,"deliver, sing, inform, thunder, declare, command, suppose, train, content, announce, issue, scream, pronounce, state, order, voice, deny, explain, advise, reveal, express, assure, speak, insist, teach",False
+disappear,"depart, move, travel, go",False
+discover,"recognize, find, for, see, view, sight, witness, watch, eye, glance, search, survey, notice, explore, examine, study, spy, observe, peer, inspect, look",False
+dislike,hate,False
+display,"prove, point, note, exhibit, reveal, show, indicate, to, present, demonstrate, explain",False
+do,"carry, out, finish, effect, achieve",True
+down,below,True
+drag,"walk, jog, coast, stir, slide, inch, race, journey, plug, trip, slip, go, run, breeze, move, sail, tear, ride, hurry, travel, flow",False
+draw,"method, plan, map, arrangement, procedure, diagram, scheme, design, way",False
+drop,fall,False
+dull,"boring, uninteresting, slow, stupid, dead, plain",True
+eager,"keen, enthusiastic, interested, alive, to",True
+earn,"effect, find, create, develop, acquire, perform, make, get, net, score, manufacture, rep, build, pick, construct, come, collect, fetch, form, invent, gain, win, bag, secure, obtain, up, accept, do, produce, catch, design, by",False
+earth,ground,True
+easy,simple,True
+effect,"create, develop, keep, acquire, perform, attach, ticket, make, get, out, place, label, manufacture, achieve, build, construct, notice, finish, form, invent, gain, sign, put, stamp, price, carry, note, obtain, earn, set, establish, do, save, produce, impress, design, brand, mark",False
+effort,"worry, trouble, pain, difficulty, concern, danger",False
+embarrassed,shy,False
+employ,"exercise, spend, use",False
+empty,blank,False
+encourage,"help, attend, on, wait, benefit, back, support, serve",False
+end,"stop, finish, close",True
+enjoy,"in, be, pleased, in, in, in, like",True
+enjoyable,delicious,False
+enormous,huge,True
+enquire,ask,False
+enthusiastic,"eager, keen, to, alive, interested",False
+escape,"race, run, speed, hurry",False
+essential,"well-known, important, principal, valuable, necessary, considerable, primary, significant, famous",False
+establish,"effect, keep, set, achieve, build, put, attach, do, save, place",False
+every,all,False
+exact,"proper, steady, actual, right, valid, accurate, loyal, genuine, real",False
+examine,"recognize, for, expect, of, see, to, discover, view, witness, sight, watch, inquire, eye, glance, request, search, survey, notice, information, question, explore, put, study, quiz, spy, observe, demand, ask, peer, inspect, from, query, look",False
+excellent,"capable, good, proper, pleasant, satisfactory, great, suitable, valid, generous, friendly, reliable, superior, qualified, genuine, helpful, kindly, fine, safe, profitable, wonderful",False
+excited,"mad, angry, furious",False
+exciting,"attractive, lively, animated, curious, bright, keen, spicy, fascinating, sharp, intelligent, challenging, interesting",False
+exercise,"employ, spend, use",False
+exhibit,"display, prove, note, point, reveal, show, indicate, to, present, demonstrate, explain",False
+expect,"inquire, demand, ask, of, request, put, to, examine, from, query, quiz, information, question",False
+expensive,dear,False
+explain,"clarify, interpret, account, for",True
+explore,"observe, recognize, for, eye, peer, sight, see, glance, search, examine, survey, inspect, discover, notice, view, study, witness, watch, spy, look",False
+express,"deliver, sing, inform, thunder, declare, command, suppose, train, content, announce, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, reveal, assure, speak, insist, teach",False
+expression,word,False
+extra,additional,True
+extraordinary,"unbelievable, incredible, fantastic, amazing, wonderful",False
+extremely,very,False
+eye,"observe, recognize, for, peer, sight, see, explore, glance, search, examine, survey, inspect, discover, notice, view, study, witness, watch, spy, look",False
+fair,"just, objective, honest",True
+fall,drop,True
+famous,well-known,True
+fancy,"care, for, admire, love, like",False
+fantastic,great,True
+fascinating,"attractive, lively, animated, curious, bright, keen, spicy, exciting, sharp, intelligent, challenging, interesting",False
+fast,"quick, rapid, fleet, quickly, like",True
+fat,full,True
+father,dad,True
+favorite,"current, common, popular",False
+fear,alarm,True
+fetch,"score, bag, secure, find, obtain, earn, rep, up, gain, acquire, pick, accept, by, get, catch, win, come, net, collect",False
+fill,"occupy, own, have, believe, acquire, gain, contain, bear, enjoy, hold",False
+find,discover,True
+fine,"beautiful, proper, pleasant, gorgeous, superior, qualified, pretty, safe, capable, great, valid, reliable, magnificent, lovely, attractive, satisfactory, handsome, suitable, fair, friendly, profitable, helpful, good, generous, genuine, kindly, excellent, wonderful",False
+finish,"carry, effect, close, achieve, quit, stay, stop, do, end, complete, out, pause",False
+fix,mend,True
+fleet,"fast, rapid, like, quickly, quick",False
+flow,"walk, jog, coast, stir, slide, inch, race, journey, plug, trip, slip, go, run, breeze, move, sail, tear, ride, drag, hurry, travel",False
+fly,"wing, coast, sail, cruise",True
+for,"recognize, see, clarify, discover, view, sight, witness, watch, fancy, eye, interpret, glance, search, survey, notice, admire, account, explore, love, examine, like, study, explain, spy, observe, care, peer, inspect, look",False
+forest,jungle,False
+forgive,pardon,True
+form,"effect, obtain, create, manufacture, earn, invent, develop, build, gain, acquire, perform, construct, make, do, produce, get, design",False
+former,previous,True
+fortunate,lucky,False
+freezing,cold,False
+fresh,new,True
+friendly,"capable, good, proper, pleasant, satisfactory, great, suitable, valid, generous, reliable, superior, qualified, genuine, helpful, kindly, fine, safe, profitable, excellent, wonderful",False
+frightened,"worried, afraid, terrified, shy, scared, shocked",False
+frightening,"plain, unpleasant, horrible, shocking, ugly, gross",False
+from,"inquire, demand, ask, expect, of, request, put, to, examine, query, quiz, information, question",False
+full,fat,False
+funny,"amusing, comic, silly",True
+furious,angry,True
+gain,obtain,True
+gay,"cheerful, happy, satisfied, pleased, glad, delighted",False
+generally,usually,False
+generous,"capable, good, proper, pleasant, satisfactory, great, suitable, valid, friendly, reliable, superior, qualified, genuine, helpful, kindly, fine, safe, profitable, excellent, wonderful",False
+genuine,"proper, pleasant, superior, qualified, real, safe, capable, exact, great, right, valid, reliable, fine, satisfactory, steady, suitable, friendly, accurate, loyal, profitable, helpful, good, actual, generous, kindly, excellent, wonderful",False
+get,"acquire, obtain, secure, gain, fetch, find, score, win, earn, rep, catch, net, bag, collect, pick, up, accept, come, by",True
+gift,present,True
+glad,"cheerful, happy, satisfied, pleased, delighted, gay",False
+glance,"observe, recognize, for, eye, peer, sight, see, explore, search, examine, survey, inspect, discover, notice, view, study, witness, watch, spy, look",False
+go,"depart, disappear, move, travel",True
+good,"excellent, fine, superior, wonderful, qualified, suitable, proper, capable, generous, kindly, friendly, pleasant, satisfactory, reliable, safe, profitable, helpful, valid, genuine, great",True
+gorgeous,"beautiful, attractive, handsome, fair, magnificent, lovely, pretty, fine",False
+gradual,"late, behind, slow",False
+great,"considerable, powerful, much",True
+gross,"rude, low",True
+ground,earth,False
+guarantee,assure,False
+handsome,"beautiful, attractive, fair, gorgeous, magnificent, lovely, pretty, fine",False
+happen,occur,False
+happy,"pleased, satisfied, delighted, cheerful, gay, glad",True
+hard,difficult,False
+hat,cap,True
+hate,dislike,True
+have,"hold, own, contain, acquire, gain, believe, bear, occupy, fill, enjoy",True
+hear,listen,False
+help,"support, encourage, back, wait, on, attend, serve, benefit",True
+helpful,"proper, pleasant, superior, qualified, safe, capable, great, valid, reliable, fine, satisfactory, suitable, kind, friendly, profitable, good, generous, genuine, kindly, excellent, wonderful",False
+hesitate,pause,False
+hide,"cover, screen",True
+highway,street,False
+hold,"own, have, keep, believe, acquire, buy, contain, enjoy, steal, pick, choose, select, bear, remove, rob, retain, lift, gain, purchase, win, take, occupy, fill, prefer, support, catch",False
+home,house,False
+honest,"good, proper, right, suitable, just, fair, objective, legal, accurate, correct",False
+horrible,"plain, unfriendly, unpleasant, wrong, defective, cross, nasty, frightening, shocking, ugly, rank, gross, bad",False
+house,home,True
+huge,"great, broad, substantial, tall, enormous, big, large",False
+hurry,"run, speed, race",True
+hurt,"damage, injure, pain",True
+icy,"cool, cold, chilly",False
+idea,"thought, opinion, plan, view",True
+ill,sick,False
+important,"necessary, valuable, essential, significant, primary, principal, considerable, famous, well-known",True
+impress,"price, effect, note, sign, ticket, notice, stamp, brand, mark, label",False
+in,"be, in, pleased, like, enjoy",False
+inch,"walk, jog, coast, stir, slide, race, journey, plug, trip, slip, go, run, breeze, move, sail, tear, ride, drag, hurry, travel, flow",False
+incorrect,wrong,False
+incredible,"unbelievable, extraordinary, fantastic, amazing, wonderful",False
+indicate,"display, prove, note, exhibit, point, reveal, show, to, present, demonstrate, explain",False
+inform,"advise, explain, reveal, declare, command, order, insist, teach, train, direct, issue, speak, suppose, express, voice, pronounce, deliver, state, sing, thunder, scream, announce, content, assure, deny",True
+information,"inquire, demand, ask, expect, of, request, put, to, examine, from, query, quiz, question",False
+initiate,"open, commence, launch, start, begin",False
+injure,"hurt, pain, damage",False
+inquire,"demand, inquire, ask, expect, of, request, put, to, examine, from, query, quiz, information, question",False
+insist,"deliver, sing, inform, thunder, declare, command, suppose, train, content, announce, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, reveal, express, assure, speak, teach",False
+inspect,examine,True
+intelligent,"attractive, lively, animated, smart, bright, keen, spicy, exciting, curious, fascinating, brilliant, sharp, challenging, interesting, shiny",False
+interested,"eager, enthusiastic, keen, to, alive",False
+interesting,"fascinating, sharp, keen, bright, intelligent, animated, attractive, challenging, exciting, lively, spicy, curious",True
+interpret,"explain, clarify, for, account",False
+invent,"effect, form, create, manufacture, earn, obtain, develop, build, gain, acquire, perform, construct, make, do, produce, get, design",False
+irregular,"strange, unusual, curious",False
+issue,"deliver, sing, inform, thunder, declare, command, suppose, train, content, announce, scream, pronounce, state, direct, order, voice, deny, explain, advise, reveal, express, assure, speak, insist, teach",False
+jacket,coat,False
+jam,"problem, spot",False
+job,career,True
+jog,"walk, coast, stir, slide, inch, race, journey, plug, trip, slip, go, run, breeze, move, sail, tear, ride, drag, hurry, travel, flow",False
+join,connect,False
+journey,"walk, jog, coast, stir, slide, inch, race, plug, trip, slip, go, run, breeze, move, sail, tear, ride, drag, hurry, travel, flow",False
+judge,"consider, think, believe",False
+jungle,forest,True
+just,"good, proper, right, suitable, fair, objective, legal, accurate, honest, correct",False
+keen,"attractive, lively, eager, intelligent, enthusiastic, animated, curious, bright, spicy, exciting, to, alive, fascinating, sharp, interested, challenging, interesting",False
+keep,"hold, retain, support",True
+kid,child,False
+kill,"murder, destroy, cancel",True
+kind,helpful,True
+kindly,"capable, good, proper, pleasant, satisfactory, great, suitable, valid, generous, friendly, reliable, superior, qualified, genuine, helpful, fine, safe, profitable, excellent, wonderful",False
+label,"price, effect, note, sign, ticket, notice, impress, stamp, brand, mark",False
+lady,woman,False
+large,"huge, great, broad, substantial, tall, enormous, big",False
+late,"behind, gradual, slow",False
+launch,"open, initiate, commence, start, begin",False
+law,rule,False
+learn,study,True
+leave,depart,False
+lecture,speech,False
+legal,"good, proper, right, suitable, just, fair, accurate, honest, correct",False
+lift,"remove, rob, purchase, take, occupy, buy, steal, raise, acquire, pick, choose, prefer, select, catch, win, hold",False
+like,prefer,True
+limited,"small, slight, tiny, little, minute",False
+listen,hear,True
+little,"tiny, small, limited, slight, minute",True
+lively,"attractive, animated, curious, bright, keen, spicy, exciting, fascinating, sharp, intelligent, challenging, interesting",False
+location,"site, state, spot, set, station, region, position, situation, place, space, area",False
+look,"see, glance, watch, survey, study, search, for, examine, inspect, observe, view, witness, spy, sight, discover, notice, recognize, peer, eye, explore",True
+loud,noisy,True
+love,"like, admire, fancy, care, for",True
+lovely,"beautiful, attractive, handsome, fair, gorgeous, magnificent, pretty, fine",False
+low,"gross, rude",False
+loyal,"proper, exact, actual, steady, right, valid, accurate, genuine, real",False
+lucky,fortunate,True
+mad,"excited, angry, furious",False
+magnificent,"beautiful, attractive, handsome, fair, gorgeous, lovely, pretty, fine",False
+make,"create, invent, form, construct, design, manufacture, produce, build, develop, do, effect, perform, earn, gain, obtain, acquire, get",True
+manage,cope,False
+manufacture,"effect, form, create, obtain, earn, invent, develop, build, gain, acquire, perform, construct, make, do, produce, get, design",False
+map,"method, plan, arrangement, procedure, diagram, scheme, draw, design, way",False
+mark,"label, price, ticket, impress, effect, stamp, brand, sign, note, notice",True
+mature,"old, ancient, aged, traditional, former, old-fashioned, weak",False
+mend,fix,False
+method,"plan, map, arrangement, procedure, diagram, scheme, draw, design, way",False
+middle,center,False
+mild,"quiet, smooth, still, peaceful, calm",False
+minute,"limited, small, slight, tiny, little",False
+miserable,"unhappy, poor, sad, depressed, uncomfortable",False
+modern,"current, unusual, original, new, recent, novel, fresh",False
+move,"go, inch, drag, walk, jog, plug, run, trip, tear, breeze, race, hurry, stir, travel, journey, ride, slip, slide, coast, flow, sail",True
+much,"considerable, powerful, great",False
+murder,"cancel, destroy, kill",False
+nasty,"unfriendly, unpleasant, wrong, defective, cross, horrible, rank, gross, bad",False
+near,"approach, advance, arrive, come, reach",False
+nearly,almost,True
+neat,"clean, tidy, smart",True
+necessary,"well-known, important, principal, essential, valuable, considerable, primary, significant, famous",False
+net,"score, fetch, secure, find, obtain, bag, earn, rep, up, gain, acquire, pick, accept, by, get, catch, win, come, collect",False
+new,"fresh, original, unusual, novel, modern, current, recent",True
+noisy,loud,False
+note,"effect, to, ticket, label, display, exhibit, show, notice, prove, point, sign, indicate, present, stamp, demonstrate, explain, price, reveal, impress, brand, mark",False
+notice,"recognize, effect, for, see, discover, ticket, view, sight, witness, watch, label, eye, glance, search, survey, explore, sign, examine, stamp, study, spy, observe, price, note, peer, inspect, impress, brand, mark, look",False
+novel,"current, unusual, original, new, recent, modern, fresh",False
+objective,"just, fair, honest",False
+observe,"recognize, for, eye, peer, sight, see, explore, glance, search, examine, survey, inspect, discover, notice, view, study, witness, watch, spy, look",False
+obtain,"effect, find, create, develop, acquire, perform, make, get, net, score, manufacture, rep, build, pick, construct, come, collect, fetch, form, invent, gain, win, bag, secure, earn, up, accept, do, produce, catch, design, by",False
+obvious,"definite, determined, certain, sure, clear, positive",False
+occupy,"own, have, believe, buy, acquire, contain, enjoy, hold, steal, pick, choose, select, bear, remove, rob, lift, gain, purchase, win, take, fill, prefer, catch",False
+occur,happen,True
+of,"inquire, demand, ask, expect, request, put, to, examine, from, query, quiz, information, question",False
+old,"ancient, weak, aged, former, old-fashioned, mature, traditional",True
+old-fashioned,"old, ancient, aged, traditional, mature, former, weak",False
+on,"help, attend, wait, encourage, benefit, back, support, serve",False
+open,"initiate, commence, launch, start, begin",False
+opinion,"idea, thought, plan, view",False
+opportunity,chance,True
+order,"deliver, sing, inform, thunder, declare, command, tell, suppose, train, content, announce, show, issue, scream, pronounce, state, direct, voice, deny, explain, advise, repeat, reveal, express, assure, speak, insist, teach",False
+original,"current, unusual, new, recent, modern, novel, fresh",False
+out,"carry, effect, achieve, perform, do, finish",False
+own,"occupy, fill, have, believe, gain, acquire, contain, bear, enjoy, hold",False
+page,sheet,True
+pain,"worry, damage, trouble, hurt, effort, difficulty, concern, injure, danger",False
+pardon,forgive,False
+part,"share, piece, section",True
+pause,hesitate,True
+peaceful,"quiet, smooth, still, mild, silent, calm",False
+peer,"observe, recognize, for, eye, sight, see, explore, glance, search, examine, survey, inspect, discover, notice, view, study, witness, watch, spy, look",False
+perform,"carry, out",True
+permit,allow,False
+pick,"find, buy, acquire, get, net, hold, score, rep, steal, choose, select, come, collect, remove, fetch, rob, lift, gain, purchase, win, bag, secure, obtain, take, earn, occupy, up, accept, prefer, catch, by",False
+picture,"represent, report, describe, record",False
+piece,"share, section, part",False
+place,"space, area, spot, region, location, situation, position, set, site, station, state",True
+plain,"uninteresting, stupid, unpleasant, boring, dead, dull, horrible, shocking, ugly, frightening, gross, slow",False
+plan,"scheme, design, draw, map, diagram, procedure, arrangement, method, way",True
+pleasant,"capable, good, proper, satisfactory, great, suitable, valid, generous, friendly, reliable, superior, qualified, genuine, helpful, kindly, fine, safe, profitable, excellent, wonderful",False
+pleased,"be, cheerful, happy, in, like, satisfied, glad, delighted, enjoy, gay",False
+plug,"walk, jog, coast, stir, slide, inch, race, journey, trip, slip, go, run, breeze, move, sail, tear, ride, drag, hurry, travel, flow",False
+point,"display, prove, note, exhibit, reveal, show, indicate, to, present, demonstrate, explain",False
+poor,"unhappy, terrible, unpleasant, awful, depressed, sad, miserable, bad, uncomfortable",False
+popular,"favorite, common, current",True
+position,"site, state, spot, set, station, region, location, situation, place, space, area",False
+positive,"definite, determined, certain, sure, clear, obvious",False
+powerful,"considerable, great, much",False
+prefer,"remove, rob, purchase, take, lift, occupy, buy, steal, acquire, pick, choose, like, select, catch, win, hold",False
+present,"display, prove, note, exhibit, point, gift, reveal, show, indicate, to, demonstrate, explain",False
+pretty,beautiful,True
+previous,former,False
+price,"effect, note, sign, ticket, notice, impress, stamp, brand, mark, label",False
+primary,"well-known, important, principal, essential, valuable, necessary, considerable, significant, famous",False
+principal,"well-known, important, essential, valuable, necessary, considerable, primary, significant, famous",False
+problem,"spot, jam",True
+procedure,"method, plan, map, arrangement, diagram, scheme, draw, design, way",False
+produce,"effect, form, create, manufacture, earn, obtain, invent, develop, build, gain, acquire, perform, construct, make, do, get, design",False
+profitable,"capable, good, proper, pleasant, satisfactory, great, suitable, valid, generous, friendly, reliable, superior, qualified, genuine, helpful, kindly, fine, safe, excellent, wonderful",False
+pronounce,"deliver, sing, inform, thunder, declare, command, suppose, train, content, announce, issue, scream, state, direct, order, voice, deny, explain, advise, reveal, express, assure, speak, insist, teach",False
+proper,"pleasant, superior, qualified, real, safe, capable, exact, great, right, valid, reliable, fine, satisfactory, steady, suitable, just, fair, friendly, legal, accurate, loyal, correct, profitable, helpful, good, actual, generous, honest, genuine, kindly, excellent, wonderful",False
+propose,suggest,False
+prove,"display, note, exhibit, point, reveal, show, indicate, to, present, demonstrate, explain",False
+purchase,"remove, rob, take, lift, occupy, buy, steal, acquire, pick, choose, prefer, select, catch, win, hold",False
+purpose,aim,False
+put,"place, set, attach, establish, keep, save, set, effect, achieve, do, build",True
+qualified,"capable, good, proper, pleasant, satisfactory, great, suitable, valid, generous, friendly, reliable, superior, genuine, helpful, kindly, fine, safe, profitable, excellent, wonderful",False
+quantity,amount,False
+query,"inquire, demand, ask, expect, of, request, put, to, examine, from, quiz, information, question",False
+question,"inquire, demand, ask, expect, of, request, put, to, examine, from, query, quiz, information, question",False
+quick,"fast, rapid, fleet, like, quickly",False
+quickly,"fast, rapid, fleet, like, quick",False
+quiet,"silent, still, peaceful, calm",True
+quit,"stop, end, finish, stay, pause",False
+quite,pretty,True
+quiz,"inquire, demand, ask, expect, of, request, put, to, examine, from, query, information, question",False
+race,"walk, jog, coast, stir, escape, slide, inch, journey, plug, trip, speed, slip, go, run, breeze, move, sail, tear, ride, drag, hurry, travel, flow",False
+raise,lift,True
+rank,"unfriendly, unpleasant, wrong, defective, cross, horrible, nasty, gross, bad",False
+rapid,"fast, fleet, like, quickly, quick",False
+reach,"approach, near, advance, arrive, come",False
+real,"proper, exact, actual, steady, right, valid, accurate, loyal, genuine",False
+receive,get,True
+recent,"current, unusual, original, new, modern, novel, fresh",False
+recognize,"observe, for, eye, peer, sight, see, explore, glance, search, examine, survey, inspect, discover, notice, view, study, witness, watch, spy, look",False
+record,"report, account, picture, describe, write, story, represent",False
+reduce,"crop, cut, slice",False
+refuse,reject,False
+region,"site, state, spot, set, station, location, position, situation, place, space, area",False
+reject,refuse,True
+relax,rest,False
+reliable,"capable, good, proper, pleasant, satisfactory, great, suitable, valid, generous, friendly, superior, qualified, genuine, helpful, kindly, fine, safe, profitable, excellent, wonderful",False
+remove,"rob, purchase, take, lift, occupy, buy, steal, acquire, pick, choose, prefer, select, catch, win, hold",False
+renew,resume,True
+rep,"score, fetch, secure, find, obtain, bag, earn, up, gain, acquire, pick, accept, by, get, catch, win, come, net, collect",False
+repeat,"order, inform, reveal, show, tell, declare, command, explain, advise",False
+reply,"answer, respond, acknowledge",False
+report,"represent, picture, describe, record",False
+represent,"report, record, picture, describe",False
+request,"inquire, demand, ask, expect, of, put, to, examine, from, query, quiz, information, question",False
+rescue,save,True
+resolve,"choose, decide, settle",False
+respond,answer,True
+rest,relax,True
+resume,renew,False
+retain,"support, keep, hold",False
+reveal,"deliver, sing, inform, thunder, declare, command, tell, to, suppose, train, display, content, exhibit, announce, show, issue, scream, pronounce, state, direct, order, point, prove, voice, deny, indicate, present, explain, demonstrate, advise, repeat, note, express, assure, speak, insist, teach",False
+ride,"walk, jog, coast, stir, slide, inch, race, journey, plug, trip, slip, go, run, breeze, move, sail, tear, drag, hurry, travel, flow",False
+right,"correct, accurate, good, just, honest, proper, suitable, legal, fair",True
+rob,"remove, purchase, take, lift, occupy, buy, steal, acquire, pick, choose, prefer, select, catch, win, hold",False
+rock,stone,False
+round,circular,True
+rude,"low, gross",False
+rug,carpet,True
+ruin,"waste, destroy, end, kill",False
+rule,law,True
+run,"race, speed, hurry, escape",True
+sad,unhappy,True
+safe,"capable, good, proper, pleasant, satisfactory, great, suitable, valid, generous, friendly, reliable, superior, qualified, genuine, helpful, kindly, fine, profitable, excellent, wonderful",False
+sail,"walk, jog, coast, stir, slide, inch, race, journey, plug, trip, slip, go, run, breeze, move, tear, ride, fly, drag, hurry, travel, wing, cruise, flow",False
+same,alike,False
+satisfactory,"capable, good, proper, pleasant, great, suitable, valid, generous, friendly, reliable, superior, qualified, genuine, helpful, kindly, fine, safe, profitable, excellent, wonderful",False
+satisfied,"cheerful, happy, pleased, glad, delighted, gay",False
+save,"effect, keep, set, achieve, build, put, attach, establish, do, rescue, place",False
+say,speak,True
+scared,"afraid, frightened, terrified, shy, worried, shocked",True
+scheme,"method, plan, map, arrangement, procedure, diagram, draw, design, way",False
+score,"bag, fetch, secure, find, obtain, earn, rep, up, gain, acquire, pick, accept, by, get, catch, win, come, net, collect",False
+scream,"deliver, shout, sing, inform, thunder, declare, command, suppose, train, content, announce, issue, pronounce, state, direct, order, voice, deny, explain, advise, cry, reveal, express, assure, speak, insist, teach",False
+screen,"cover, hide",False
+search,"observe, recognize, for, eye, peer, sight, see, explore, glance, examine, survey, inspect, discover, notice, view, study, witness, watch, spy, look",False
+section,"piece, share, part",False
+secure,"score, fetch, bag, find, obtain, earn, rep, up, gain, acquire, pick, accept, by, get, catch, win, come, net, collect",False
+see,"observe, recognize, for, eye, peer, sight, explore, glance, search, examine, survey, inspect, discover, notice, view, study, witness, watch, spy, look",False
+select,"remove, rob, purchase, take, lift, occupy, buy, steal, acquire, pick, choose, prefer, catch, win, hold",False
+serve,"help, attend, on, wait, encourage, benefit, back, support",False
+set,"site, effect, keep, location, attach, position, situation, place, space, achieve, build, region, area, state, spot, put, station, set, establish, do, save",False
+settle,"resolve, decide, choose",False
+share,"piece, section, part",False
+sharp,"attractive, lively, animated, bright, keen, spicy, exciting, fascinating, curious, intelligent, challenging, interesting",False
+sheet,page,False
+shiny,"intelligent, smart, brilliant, bright",False
+shocked,"worried, afraid, terrified, frightened, shy, scared",False
+shocking,"plain, unpleasant, horrible, ugly, frightening, gross",False
+shop,store,True
+shout,"cry, scream",False
+show,"display, exhibit, present, note, point, to, indicate, explain, reveal, prove, demonstrate",True
+shut,close,False
+shy,embarrassed,True
+sick,ill,True
+sight,"observe, recognize, for, eye, peer, see, explore, glance, search, examine, survey, inspect, discover, notice, view, study, witness, watch, spy, look",False
+sign,"price, effect, note, ticket, notice, impress, stamp, brand, mark, label",False
+significant,"well-known, important, principal, essential, valuable, necessary, considerable, primary, famous",False
+silent,"quiet, peaceful, still, calm",False
+silly,"comic, funny, amusing",False
+simple,easy,False
+sing,"deliver, inform, thunder, declare, command, suppose, train, content, announce, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, reveal, express, assure, speak, insist, teach",False
+site,"state, spot, set, station, region, location, position, situation, place, space, area",False
+situation,"site, state, spot, set, station, region, location, position, place, space, area",False
+slice,"reduce, cut, crop",False
+slide,"walk, jog, coast, stir, inch, race, journey, plug, trip, slip, go, run, breeze, move, sail, tear, ride, drag, hurry, travel, flow",False
+slight,"limited, small, tiny, little, minute",False
+slim,thin,True
+slip,"walk, jog, coast, stir, slide, inch, race, journey, plug, trip, go, run, breeze, move, sail, tear, ride, drag, hurry, travel, flow",False
+slow,"gradual, late, behind",True
+small,"limited, slight, tiny, little, minute",False
+smart,bright,True
+smooth,"quiet, still, peaceful, mild, calm",False
+space,"site, state, spot, set, station, region, location, position, situation, place, area",False
+speak,"deliver, sing, inform, thunder, declare, command, suppose, train, content, announce, issue, scream, pronounce, state, direct, order, voice, deny, say, explain, advise, reveal, express, assure, insist, teach",False
+speech,lecture,True
+speed,"escape, race, run, hurry",False
+spend,"employ, exercise, use",False
+spicy,"attractive, lively, animated, curious, bright, keen, exciting, fascinating, sharp, intelligent, challenging, interesting",False
+spot,"site, state, problem, jam, set, station, region, location, position, situation, place, space, area",False
+spy,"observe, recognize, for, eye, peer, sight, see, explore, glance, search, examine, survey, inspect, discover, notice, view, study, witness, watch, look",False
+stamp,"price, effect, note, sign, ticket, notice, impress, brand, mark, label",False
+start,"open, initiate, commence, launch, begin",False
+state,"site, deliver, sing, inform, thunder, declare, location, command, position, suppose, situation, train, place, space, content, announce, region, issue, scream, pronounce, area, direct, order, voice, spot, deny, explain, advise, reveal, set, station, express, assure, speak, insist, teach",False
+station,"site, state, spot, set, region, location, position, situation, place, space, area",False
+stay,"quit, stop, end, finish, pause",False
+steady,"proper, exact, actual, right, valid, accurate, loyal, genuine, real",False
+steal,"remove, rob, purchase, take, lift, occupy, buy, acquire, pick, choose, prefer, select, catch, win, hold",False
+still,"quiet, smooth, peaceful, mild, silent, calm",False
+stir,"walk, jog, coast, slide, inch, race, journey, plug, trip, slip, go, run, breeze, move, sail, tear, ride, drag, hurry, travel, flow",False
+stone,rock,True
+stop,"stay, pause, end, finish, quit",True
+store,shop,False
+story,"account, record",True
+strange,"unusual, curious, irregular",True
+street,highway,True
+study,"recognize, for, see, discover, view, sight, witness, watch, eye, learn, glance, search, survey, notice, explore, examine, spy, observe, peer, inspect, look",False
+stupid,"uninteresting, plain, boring, dead, dull, slow",False
+substantial,"huge, great, broad, tall, enormous, big, large",False
+suggest,propose,True
+suitable,"proper, pleasant, superior, qualified, safe, capable, great, right, valid, reliable, fine, satisfactory, just, fair, friendly, legal, accurate, correct, profitable, helpful, good, generous, honest, genuine, kindly, excellent, wonderful",False
+superior,"capable, good, proper, pleasant, satisfactory, great, suitable, valid, generous, friendly, reliable, qualified, genuine, helpful, kindly, fine, safe, profitable, excellent, wonderful",False
+support,"help, attend, retain, on, wait, keep, encourage, benefit, back, serve, hold",False
+suppose,"deliver, sing, inform, thunder, declare, command, train, content, announce, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, reveal, express, assure, speak, insist, teach",False
+sure,certain,True
+survey,"observe, recognize, for, eye, peer, sight, see, explore, glance, search, examine, inspect, discover, notice, view, study, witness, watch, spy, look",False
+take,"hold, catch, win, acquire, pick, choose, select, prefer, remove, steal, lift, rob, purchase, buy, occupy",True
+tall,"huge, great, broad, substantial, enormous, big, large",False
+taxi,cab,True
+teach,"deliver, sing, inform, thunder, declare, command, suppose, train, content, announce, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, reveal, express, assure, speak, insist",False
+tear,"walk, jog, coast, stir, slide, inch, race, journey, plug, trip, slip, go, run, breeze, move, sail, ride, drag, hurry, travel, flow",False
+tell,"reveal, show, inform, advise, explain, declare, command, order, repeat",True
+terrible,"unpleasant, awful, bad, poor",False
+terrified,"worried, afraid, shy, frightened, scared, shocked",False
+thin,slim,False
+think,"judge, believe, consider",True
+thought,"idea, plan, view, opinion",False
+thunder,"deliver, sing, inform, declare, command, suppose, train, content, announce, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, reveal, express, assure, speak, insist, teach",False
+ticket,"price, effect, note, sign, notice, impress, stamp, brand, mark, label",False
+tidy,"clean, smart, neat",False
+tiny,"limited, small, slight, little, minute",False
+to,"expect, of, keen, interested, display, inquire, exhibit, show, request, information, question, prove, point, enthusiastic, indicate, put, examine, present, alive, quiz, explain, demonstrate, demand, note, eager, ask, reveal, from, query",False
+total,whole,True
+trade,business,False
+traditional,"old, ancient, aged, mature, former, old-fashioned, weak",False
+train,"deliver, sing, inform, thunder, declare, command, suppose, content, announce, issue, scream, pronounce, state, direct, order, voice, deny, explain, advise, reveal, express, assure, speak, insist, teach",False
+travel,"walk, jog, coast, stir, slide, inch, race, journey, plug, trip, slip, go, depart, run, breeze, move, sail, tear, ride, drag, hurry, flow, disappear",False
+trip,journey,True
+trouble,"worry, pain, danger, difficulty, concern, effort",True
+trust,believe,True
+try,attempt,True
+ugly,"frightening, shocking, horrible, unpleasant, gross, plain",True
+unbelievable,"extraordinary, incredible, fantastic, amazing, wonderful",False
+uncomfortable,"unhappy, poor, sad, miserable, depressed",False
+under,below,False
+unfriendly,"unpleasant, wrong, defective, cross, horrible, nasty, rank, gross, bad",False
+unhappy,"miserable, uncomfortable, poor, depressed, sad",True
+uninteresting,"plain, stupid, boring, dead, dull, slow",False
+unpleasant,"plain, unfriendly, terrible, awful, defective, cross, horrible, wrong, poor, nasty, frightening, shocking, ugly, rank, gross, bad",False
+unusual,"current, irregular, original, new, curious, recent, strange, modern, novel, fresh",False
+up,"score, fetch, secure, find, obtain, bag, earn, rep, accept, gain, acquire, pick, by, get, catch, win, come, net, collect",False
+use,"employ, spend, exercise",True
+usually,generally,True
+valid,"proper, pleasant, superior, qualified, real, safe, capable, exact, great, right, reliable, fine, satisfactory, steady, suitable, friendly, accurate, loyal, profitable, helpful, good, actual, generous, genuine, kindly, excellent, wonderful",False
+valuable,"well-known, important, principal, essential, necessary, considerable, primary, significant, famous",False
+value,worth,True
+very,extremely,True
+view,"recognize, for, see, discover, sight, witness, watch, eye, glance, search, survey, notice, thought, plan, explore, examine, study, idea, spy, observe, opinion, peer, inspect, look",False
+voice,"deliver, sing, inform, thunder, declare, command, suppose, train, content, announce, issue, scream, pronounce, state, direct, order, deny, explain, advise, reveal, express, assure, speak, insist, teach",False
+wait,"help, attend, on, encourage, benefit, back, support, serve",False
+walk,"jog, coast, stir, slide, inch, race, journey, plug, trip, slip, go, run, breeze, move, sail, tear, ride, drag, hurry, travel, flow",False
+waste,"destroy, end, ruin, kill",False
+watch,"observe, recognize, for, eye, peer, sight, see, explore, glance, search, examine, survey, inspect, discover, notice, view, study, witness, spy, look",False
+way,"method, plan, map, arrangement, procedure, diagram, scheme, draw, design",False
+weak,"old, ancient, aged, traditional, mature, former, old-fashioned",False
+well-known,"important, principal, essential, valuable, necessary, considerable, primary, significant, famous",False
+whole,total,False
+wide,broad,False
+win,"find, buy, acquire, get, net, hold, score, rep, steal, pick, choose, select, come, collect, remove, fetch, rob, lift, gain, purchase, bag, secure, obtain, take, earn, occupy, up, accept, prefer, catch, by",False
+wing,"fly, sail, cruise, coast",False
+witness,"observe, recognize, for, eye, peer, sight, see, explore, glance, search, examine, survey, inspect, discover, notice, view, study, watch, spy, look",False
+woman,lady,True
+wonderful,amazing,True
+word,expression,True
+worried,"afraid, terrified, frightened, shy, scared, shocked",False
+worry,"trouble, effort, pain, difficulty, concern, danger",False
+worth,value,False
+write,record,True
+writer,author,True
+wrong,incorrect,True

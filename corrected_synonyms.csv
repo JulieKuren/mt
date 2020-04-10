@@ -1,0 +1,161 @@
+"('do', 3800),",
+"('allow', 127),",permit
+"('go', 1949),",
+"('answer', 238),","reply, respond"
+"('make', 1531),",
+"('all', 1324),",every
+"('get', 1501),",
+"('big', 474),","enormous, huge, large, great, tall"
+"('come', 1037),",
+"('look', 989),",
+"('think', 985),",
+"('take', 975),",
+"('father', 510),",dad
+"('help', 838),",
+"('find', 727),",
+"('ask', 683),",
+"('tell', 676),",
+"('good', 881),","excellent, fine, wonderful, satisfactory"
+"('new', 670),","fresh, original, unusual, novel, modern, current, recent"
+"('arrive', 96),",come
+"('old', 591),","ancient, antique, aged"
+"('try', 507),",
+"('begin', 460),","start, open, launch, initiate, commence"
+"('very', 1530),",really
+"('buy', 439),",purchase
+"('use', 445),",
+"('choose', 158),","pick, select"
+"('stop', 430),",
+"('able', 119),",
+"('angry', 169),","mad, furious"
+"('away', 351),","out, aside"
+"('bad', 236),","defective, unpleasant, wrong, crappy"
+"('beautiful', 205),","pretty, lovely, attractive, magnificent"
+"('break', 138),",
+"('child', 141),",kid
+"('close', 122),",
+"('cold', 113),",freezing
+"('difficult', 151),",hard
+"('down', 390),",below
+"('earth', 155),",ground
+"('easy', 170),",simple
+"('fall', 233),","autumn, drop"
+"('fast', 127),","quick, rapid, quickly"
+"('fly', 209),","move, insect"
+"('great', 243),","considerable, wonderful, extraordinary"
+"('happy', 329),","pleased, satisfied, delighted, glad"
+"('house', 352),",home
+"('cry', 144),","shout, scream"
+"('idea', 204),","thought, opinion, plan, view"
+"('important', 355),","necessary, valuable, essential, significant, primary, principal, considerable, crucial"
+"('decide', 214),","settle, choose, resolve"
+"('job', 255),",career
+"('keep', 343),",
+"('kind', 428),",helpful
+"('little', 401),","tiny, small, limited"
+"('love', 387),","like, admire"
+"('end', 131),","stop, finish, close"
+"('move', 280),",
+"('part', 223),","share, piece, section"
+"('place', 421),","space, area, region, location, position"
+"('enjoy', 259),",like
+"('popular', 263),","favorite, common, current"
+"('problem', 350),","trouble, dilemma"
+"('put', 354),",
+"('right', 228),","correct, accurate, good, just, proper, suitable, legal, fair"
+"('explain', 88),","clarify, interpret"
+"('run', 372),",
+"('hurt', 153),","damage, injure"
+"('sad', 98),",unhappy
+"('kill', 77),",murder
+"('shop', 342),",store
+"('show', 368),","display, exhibit, present, note, point, indicate, explain, demonstrate, demo, concert"
+"('story', 169),","account, record"
+"('learn', 563),",study
+"('street', 183),","highway, alley"
+"('like', 1677),",prefer
+"('sure', 132),",certain
+"('trip', 102),",journey
+"('usually', 315),",
+up,upwards
+"('woman', 237),",lady
+"('word', 273),",expression
+"('listen', 193),",hear
+"('strange', 94),",
+"('plan', 93),",
+"('wrong', 91),",
+"('say', 2097),",state
+"('gift', 85),",
+"('quite', 84),",
+"('wonderful', 78),",
+"('write', 481),",record
+"('fresh', 74),",
+"('rule', 70),",
+"('dark', 70),",
+"('hide', 68),",
+"('cut', 67),",
+"('mark', 65),",
+"('cool', 62),",
+"('stone', 62),",
+"('round', 61),",
+"('sick', 59),",
+"('quiet', 59),",
+"('slow', 58),",
+"('bright', 58),",
+"('nearly', 57),",
+"('center', 49),",
+"('trouble', 49),",
+"('rest', 48),",
+"('coat', 48),",
+"('dear', 48),",
+"('taxi', 45),",
+"('funny', 40),",
+"('receive', 40),",
+"('lucky', 39),",
+"('shy', 38),",
+"('page', 37),",
+"('loud', 36),",
+"('pretty', 34),",
+"('describe', 32),",
+"('forgive', 32),",
+"('raise', 31),",
+"('fat', 31),",
+"('calm', 31),",
+"('hat', 31),",
+"('hurry', 27),",
+"('unhappy', 24),",
+"('complete', 24),",
+"('hate', 23),",
+"('smart', 23),",
+"('connect', 22),",
+"('fair', 21),",
+"('below', 21),",
+"('business', 20),",
+"('value', 20),",
+"('fix', 20),",
+"('writer', 19),",
+"('destroy', 18),",
+"('ugly', 17),",
+"('perform', 17),",
+"('speech', 15),",
+"('extra', 13),",
+"('amount', 12),",
+"('suggest', 11),",
+"('fear', 11),",
+"('respond', 11),",
+"('total', 11),",
+"('fantastic', 11),",
+"('brave', 10),",
+"('slim', 9),",
+"('jungle', 8),",
+"('accurate', 7),",
+"('alike', 6),",
+"('former', 6),",
+"('behave', 6),",
+"('aim', 5),",
+"('eager', 4),",
+"('bother', 4),",
+"('trust', 4),",
+"('pause', 1),",
+"('opportunity', 1),",
+"('blank', 1)",
