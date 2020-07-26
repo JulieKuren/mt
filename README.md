@@ -29,6 +29,14 @@ The generation procedure is rule-based and consists of the following steps:
    pip install -r requirements.txt
    ```
 
+4. Install nltk resources:
+
+   ```python
+   python
+   >>> import nltk
+   >>> nltk.download("punkt")
+   ```
+
 ## True Statement Generation
 
 True statements are created by applying a set of rules to RST relations found in the text. In order to generate True statements, run the `project/generation.ipynb` Jupyter notebook. The notebook has two constants that define its behaviour:
