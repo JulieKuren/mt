@@ -7,6 +7,28 @@ The generation procedure is rule-based and consists of the following steps:
 3. True-False question creation and ranking.
 4. Reading Comprehension exercise creation.
 
+## Prerequisites
+
+1. [Download](https://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip), unpack, and run StanfordCoreNLP:
+
+   ```sh
+   unzip stanford-corenlp-full-2018-10-05.zip
+   cd stanford-corenlp-full-2018-10-05.zip
+   java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer
+   ```
+
+2. Install MySQL (needed for the pattern package):
+
+   ```sh
+   brew install mysql
+   ```
+
+3. Install python dependencies:
+
+   ```sh
+   pip install -r requirements.txt
+   ```
+
 ## True Statement Generation
 
 True statements are created by applying a set of rules to RST relations found in the text. In order to generate True statements, run the `project/generation.ipynb` Jupyter notebook. The notebook has two constants that define its behaviour:

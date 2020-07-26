@@ -1,0 +1,2 @@
+pattern == 3.6
+pycorenlp == 0.3.0
